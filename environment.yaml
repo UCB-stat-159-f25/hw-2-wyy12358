@@ -1,0 +1,13 @@
+name: ligo
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - numpy
+      - matplotlib
+      - scipy
+      - h5py
+      - ipython
+      - jupyter
+      - requests
+      - astropy
